@@ -10,7 +10,9 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 
+  // Ensure it prints output
 
-``` javascript
+
+ javascript
 var myVar = "Hello, world!";
----
+console.log(myVar);
